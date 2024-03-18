@@ -4,14 +4,10 @@ Thumbs.db
 
 *.py[cod]
 *$py.class
-__pycache__
 
 # virtualenv
 .venv/
 venv/
-
-# nodejs
-node_modules
 
 # PyCharm
 .idea
@@ -19,8 +15,6 @@ node_modules
 # VS Code
 .vscode
 
-# SCSS
-.sass-cache
-
+# Environment Variables
 .env
 .flaskenv
